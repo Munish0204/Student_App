@@ -1,0 +1,10 @@
+Django
+djangorestframework
+Pillow
+qrcode
+django-cors-headers
+firebase-admin
+celery
+django-i18nfield
+psycopg2-binary
+boto3
